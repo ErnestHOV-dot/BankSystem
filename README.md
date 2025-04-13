@@ -1,7 +1,3 @@
-<p align="center">
-      <img src="https://i.ibb.co/Z8gSb4K/bd72e54270c965c13536d92117b9a846.jpg" alt="Project Logo" width="450">
-</p>
-
 ## About
 
 This project implements the simplest banking system with two or more users. 
